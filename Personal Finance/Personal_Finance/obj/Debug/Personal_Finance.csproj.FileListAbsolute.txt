@@ -1,0 +1,132 @@
+C:\Users\Bl3iD\Desktop\Personal_Finance\Personal_Finance\bin\Debug\Personal_Finance.exe.config
+C:\Users\Bl3iD\Desktop\Personal_Finance\Personal_Finance\bin\Debug\Personal_Finance.exe
+C:\Users\Bl3iD\Desktop\Personal_Finance\Personal_Finance\bin\Debug\Personal_Finance.pdb
+C:\Users\Bl3iD\Desktop\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Addresses.resources
+C:\Users\Bl3iD\Desktop\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Personal_Finance.resources
+C:\Users\Bl3iD\Desktop\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Properties.Resources.resources
+C:\Users\Bl3iD\Desktop\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.csproj.GenerateResource.Cache
+C:\Users\Bl3iD\Desktop\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.exe
+C:\Users\Bl3iD\Desktop\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.pdb
+C:\Users\Bl3iD\Desktop\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.csprojResolveAssemblyReference.cache
+C:\Users\Bl3iD\Desktop\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Clients_Dossiers.resources
+C:\Users\Bl3iD\Desktop\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Clients_Addresses.resources
+C:\Users\Bl3iD\Desktop\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Find_Add_Dossiers.resources
+C:\Users\Bl3iD\Desktop\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Login.resources
+C:\Users\Denn\Desktop\Personal_Finance\Personal_Finance\bin\Debug\Personal_Finance.exe.config
+C:\Users\Denn\Desktop\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.exe
+C:\Users\Denn\Desktop\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.pdb
+C:\Users\Denn\Desktop\Personal_Finance\Personal_Finance\bin\Debug\Personal_Finance.exe
+C:\Users\Denn\Desktop\Personal_Finance\Personal_Finance\bin\Debug\Personal_Finance.pdb
+C:\Users\Denn\Desktop\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.csprojResolveAssemblyReference.cache
+C:\Users\Denn\Desktop\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Clients_Dossiers.resources
+C:\Users\Denn\Desktop\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Clients_Addresses.resources
+C:\Users\Denn\Desktop\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Find_Add_Dossiers.resources
+C:\Users\Denn\Desktop\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Login.resources
+C:\Users\Denn\Desktop\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Personal_Finance.resources
+C:\Users\Denn\Desktop\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Properties.Resources.resources
+C:\Users\Denn\Desktop\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.csproj.GenerateResource.Cache
+C:\Users\Denn\Desktop\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Adding_Expenses.resources
+C:\Users\Denn\Desktop\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Adding_Income.resources
+C:\Users\Bl3iD\Desktop\Personal_Finance v2\Personal_Finance\bin\Debug\Personal_Finance.exe.config
+C:\Users\Bl3iD\Desktop\Personal_Finance v2\Personal_Finance\obj\Debug\Personal_Finance.exe
+C:\Users\Bl3iD\Desktop\Personal_Finance v2\Personal_Finance\obj\Debug\Personal_Finance.pdb
+C:\Users\Bl3iD\Desktop\Personal_Finance v2\Personal_Finance\obj\Debug\Personal_Finance.csprojResolveAssemblyReference.cache
+C:\Users\Bl3iD\Desktop\Personal_Finance v2\Personal_Finance\obj\Debug\Personal_Finance.Adding_Costs.resources
+C:\Users\Bl3iD\Desktop\Personal_Finance v2\Personal_Finance\obj\Debug\Personal_Finance.Adding_income.resources
+C:\Users\Bl3iD\Desktop\Personal_Finance v2\Personal_Finance\obj\Debug\Personal_Finance.Clients_Dossiers.resources
+C:\Users\Bl3iD\Desktop\Personal_Finance v2\Personal_Finance\obj\Debug\Personal_Finance.Clients_Addresses.resources
+C:\Users\Bl3iD\Desktop\Personal_Finance v2\Personal_Finance\obj\Debug\Personal_Finance.Find_Add_Dossiers.resources
+C:\Users\Bl3iD\Desktop\Personal_Finance v2\Personal_Finance\obj\Debug\Personal_Finance.Login.resources
+C:\Users\Bl3iD\Desktop\Personal_Finance v2\Personal_Finance\obj\Debug\Personal_Finance.Personal_Finance.resources
+C:\Users\Bl3iD\Desktop\Personal_Finance v2\Personal_Finance\obj\Debug\Personal_Finance.Properties.Resources.resources
+C:\Users\Bl3iD\Desktop\Personal_Finance v2\Personal_Finance\obj\Debug\Personal_Finance.csproj.GenerateResource.Cache
+C:\Users\Bl3iD\Desktop\Personal_Finance v2\Personal_Finance\bin\Debug\Personal_Finance.exe
+C:\Users\Bl3iD\Desktop\Personal_Finance v2\Personal_Finance\bin\Debug\Personal_Finance.pdb
+C:\Users\Denn\Desktop\Personal_Finance v2\Personal_Finance\bin\Debug\Personal_Finance.exe.config
+C:\Users\Denn\Desktop\Personal_Finance v2\Personal_Finance\obj\Debug\Personal_Finance.exe
+C:\Users\Denn\Desktop\Personal_Finance v2\Personal_Finance\obj\Debug\Personal_Finance.pdb
+C:\Users\Denn\Desktop\Personal_Finance v2\Personal_Finance\bin\Debug\Personal_Finance.exe
+C:\Users\Denn\Desktop\Personal_Finance v2\Personal_Finance\bin\Debug\Personal_Finance.pdb
+C:\Users\Denn\Desktop\Personal_Finance v2\Personal_Finance\obj\Debug\Personal_Finance.csprojResolveAssemblyReference.cache
+C:\Users\Denn\Desktop\Personal_Finance v2\Personal_Finance\obj\Debug\Personal_Finance.Adding_Costs.resources
+C:\Users\Denn\Desktop\Personal_Finance v2\Personal_Finance\obj\Debug\Personal_Finance.Adding_Income.resources
+C:\Users\Denn\Desktop\Personal_Finance v2\Personal_Finance\obj\Debug\Personal_Finance.Clients_Dossiers.resources
+C:\Users\Denn\Desktop\Personal_Finance v2\Personal_Finance\obj\Debug\Personal_Finance.Clients_Addresses.resources
+C:\Users\Denn\Desktop\Personal_Finance v2\Personal_Finance\obj\Debug\Personal_Finance.Find_Add_Dossiers.resources
+C:\Users\Denn\Desktop\Personal_Finance v2\Personal_Finance\obj\Debug\Personal_Finance.Login.resources
+C:\Users\Denn\Desktop\Personal_Finance v2\Personal_Finance\obj\Debug\Personal_Finance.Personal_Finance.resources
+C:\Users\Denn\Desktop\Personal_Finance v2\Personal_Finance\obj\Debug\Personal_Finance.Properties.Resources.resources
+C:\Users\Denn\Desktop\Personal_Finance v2\Personal_Finance\obj\Debug\Personal_Finance.csproj.GenerateResource.Cache
+F:\Personal_Finance v3\Personal_Finance\bin\Debug\Personal_Finance.exe.config
+F:\Personal_Finance v3\Personal_Finance\bin\Debug\Personal_Finance.exe
+F:\Personal_Finance v3\Personal_Finance\bin\Debug\Personal_Finance.pdb
+F:\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.csprojResolveAssemblyReference.cache
+F:\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.Adding_Costs.resources
+F:\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.Adding_Income.resources
+F:\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.Clients_Dossiers.resources
+F:\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.Clients_Addresses.resources
+F:\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.Find_Add_Dossiers.resources
+F:\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.Login.resources
+F:\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.Personal_Finance.resources
+F:\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.Properties.Resources.resources
+F:\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.csproj.GenerateResource.Cache
+F:\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.exe
+F:\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.pdb
+G:\Personal_Finance v3\Personal_Finance\bin\Debug\Personal_Finance.exe.config
+G:\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.exe
+G:\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.pdb
+C:\Users\Bl3iD\Desktop\Personal_Finance v3\Personal_Finance\bin\Debug\Personal_Finance.exe.config
+C:\Users\Bl3iD\Desktop\Personal_Finance v3\Personal_Finance\bin\Debug\Personal_Finance.exe
+C:\Users\Bl3iD\Desktop\Personal_Finance v3\Personal_Finance\bin\Debug\Personal_Finance.pdb
+C:\Users\Bl3iD\Desktop\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.Adding_Income_Cost.resources
+C:\Users\Bl3iD\Desktop\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.AddClient_EditDossiers.resources
+C:\Users\Bl3iD\Desktop\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.SearchClients_AddAddresses.resources
+C:\Users\Bl3iD\Desktop\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.FindClients_AddDossiers.resources
+C:\Users\Bl3iD\Desktop\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.Login.resources
+C:\Users\Bl3iD\Desktop\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.Personal_Finance.resources
+C:\Users\Bl3iD\Desktop\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.Properties.Resources.resources
+C:\Users\Bl3iD\Desktop\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.csproj.GenerateResource.Cache
+C:\Users\Bl3iD\Desktop\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.exe
+C:\Users\Bl3iD\Desktop\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.pdb
+C:\Users\Bl3iD\Desktop\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.csprojResolveAssemblyReference.cache
+C:\Users\Bl3iD\Desktop\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.Costs_Form.resources
+C:\Users\Bl3iD\Desktop\Personal_Finance v3\Personal_Finance\obj\Debug\Personal_Finance.Incomes_Form.resources
+C:\Users\Bl3iD\Desktop\New folder (2)\Personal_Finance\Personal_Finance\bin\Debug\Personal_Finance.exe.config
+C:\Users\Bl3iD\Desktop\New folder (2)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.exe
+C:\Users\Bl3iD\Desktop\New folder (2)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.pdb
+C:\Users\Bl3iD\Desktop\projects for GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\bin\Debug\Personal_Finance.exe.config
+C:\Users\Bl3iD\Desktop\projects for GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\bin\Debug\Personal_Finance.exe
+C:\Users\Bl3iD\Desktop\projects for GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\bin\Debug\Personal_Finance.pdb
+C:\Users\Bl3iD\Desktop\projects for GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.csproj.AssemblyReference.cache
+C:\Users\Bl3iD\Desktop\projects for GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bl3iD\Desktop\projects for GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Adding_Income_Cost.resources
+C:\Users\Bl3iD\Desktop\projects for GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.AddClient_EditDossiers.resources
+C:\Users\Bl3iD\Desktop\projects for GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Costs_Form.resources
+C:\Users\Bl3iD\Desktop\projects for GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Incomes_Form.resources
+C:\Users\Bl3iD\Desktop\projects for GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.SearchClients_AddAddresses.resources
+C:\Users\Bl3iD\Desktop\projects for GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.FindClients_AddDossiers.resources
+C:\Users\Bl3iD\Desktop\projects for GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Login.resources
+C:\Users\Bl3iD\Desktop\projects for GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Personal_Finance.resources
+C:\Users\Bl3iD\Desktop\projects for GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Properties.Resources.resources
+C:\Users\Bl3iD\Desktop\projects for GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.csproj.GenerateResource.cache
+C:\Users\Bl3iD\Desktop\projects for GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.csproj.CoreCompileInputs.cache
+C:\Users\Bl3iD\Desktop\projects for GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.exe
+C:\Users\Bl3iD\Desktop\projects for GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.pdb
+C:\Users\Bl3iD\Desktop\projects_for_GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\bin\Debug\Personal_Finance.exe.config
+C:\Users\Bl3iD\Desktop\projects_for_GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\bin\Debug\Personal_Finance.exe
+C:\Users\Bl3iD\Desktop\projects_for_GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\bin\Debug\Personal_Finance.pdb
+C:\Users\Bl3iD\Desktop\projects_for_GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.csproj.AssemblyReference.cache
+C:\Users\Bl3iD\Desktop\projects_for_GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bl3iD\Desktop\projects_for_GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Adding_Income_Cost.resources
+C:\Users\Bl3iD\Desktop\projects_for_GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.AddClient_EditDossiers.resources
+C:\Users\Bl3iD\Desktop\projects_for_GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Costs_Form.resources
+C:\Users\Bl3iD\Desktop\projects_for_GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Incomes_Form.resources
+C:\Users\Bl3iD\Desktop\projects_for_GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.SearchClients_AddAddresses.resources
+C:\Users\Bl3iD\Desktop\projects_for_GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.FindClients_AddDossiers.resources
+C:\Users\Bl3iD\Desktop\projects_for_GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Login.resources
+C:\Users\Bl3iD\Desktop\projects_for_GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Personal_Finance.resources
+C:\Users\Bl3iD\Desktop\projects_for_GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.Properties.Resources.resources
+C:\Users\Bl3iD\Desktop\projects_for_GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.csproj.GenerateResource.cache
+C:\Users\Bl3iD\Desktop\projects_for_GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.csproj.CoreCompileInputs.cache
+C:\Users\Bl3iD\Desktop\projects_for_GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.exe
+C:\Users\Bl3iD\Desktop\projects_for_GitHub\курсова работа (десктоп)\Personal_Finance\Personal_Finance\obj\Debug\Personal_Finance.pdb
