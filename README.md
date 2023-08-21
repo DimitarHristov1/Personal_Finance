@@ -4,4 +4,4 @@ The application is made with Microsoft Visual Studio (IDE) Version: 14.0.25420.1
 The SQL queries that are used to make the database for the application are in the SQL Query Script.txt which is in the project.
 The programming laguages used to make the app are: C# and SQL.
 The data source used for the app is SQLEXPRESS.
-NOTE: The adding of accounts for the app is made through the database, in other words execute a query into the table "USERS" to insert an account for logging in.
+NOTE: The adding of accounts for the app is made through the database, in other words execute a query into the table "USERS" to insert an account for logging in!
